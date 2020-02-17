@@ -1,0 +1,210 @@
+- name: Karim Ali
+  id: karim
+  website: https://karimali.ca
+
+# Current
+- name: Ifaz Kabir
+  prog: phd
+  id: ikabir
+  website: http://www.ifazk.com
+  status: current
+  bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
+
+- name: Abdul Ali Bangash
+  prog: phd
+  id: bangash
+  website: https://sites.google.com/view/bangash
+  status: current
+  bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
+
+- name: David Seekatz
+  prog: masters
+  id: seekatz
+  website:
+  status: current
+  bio: David is a Master's student in Computing Science. He's interested in developing a program analysis framework for IoT devices.
+
+- name: Kristen Newbury
+  prog: masters
+  id: knewbury
+  website:
+  status: current
+  bio: Kristen is a Master's student in Computing Science. She's interested in using program analysis to detect crypto API misuses.
+
+- name: Ahmed Elkhair
+  prog: masters
+  id: ahmed
+  website:
+  status: current
+  bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
+
+# Affiliated
+- name: Stefan Krüger
+  prog: phd
+  id: skrueger
+  status: affiliated
+  bio: Stefan is a PhD Student at Paderborn University (co-supervised with Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
+
+# Former
+- name: Revan MacQueen
+  prog: undergrad
+  id: revan
+  website: https://www.linkedin.com/in/revan-macqueen-931ab716a/
+  status: former
+  bio: Revan is a senior honours Computing Science undergrad student who has been working in the lab in the summers of 2018 and 2019 on fixing neural networks using solver-aided languages.
+
+- name: Daniil Tiganov
+  prog: undergrad
+  id: tiganov
+  website: https://tiganov.ca
+  status: former
+  bio: Daniil is a senior undergrad student in Computing Science who, in 2019, made significant contributions to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analayis framework for Swift.
+
+- name: Lisa Nguyen Quang Do
+  prog: phd
+  id: lnqd
+  website: http://lisanqd.com
+  status: former
+  thesis: https://doi.org/10.17619/UNIPB/1-820
+  bio: Lisa was a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface. She went on to be a Software Engineer at Google, Zurich.
+
+- name: Jeff Cho
+  prog: undergrad
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: former
+  bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. Jeff went on to pursue his master's degree at the University of Alberta.
+
+- name: Spencer Killen
+  prog: undergrad
+  id: sjkillen
+  website:
+  status: former
+  bio: Spencer obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. He worked in the lab during the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
+
+- name: Supakorn 'Jamie' Rassameemasmuang
+  prog: undergrad
+  id: jamie
+  website: https://supakorn-ras.github.io
+  status: former
+  bio: Jamie is an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. In the summer of 2019, Jamie has worked in the lab on verifying transformations for string equations using Coq.
+
+- name: Erick Ochoa
+  prog: masters
+  id: eochoa
+  website: https://efferifick.gitlab.io/compiler-dictionary/
+  status: former
+  bio: Erick was a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. His master's thesis focused on guiding inlining decisions using post-inlining transformations. He went on to be a Compiler Engineer at Theobroma Systems.
+
+- name: Johannes Späth
+  prog: phd
+  id: spaeth
+  status: former
+  thesis: https://doi.org/10.17619/UNIPB/1-640
+  bio: Johannes was a PhD student at Paderborn University (co-supervised with Eric Bodden). In 2013, Johannes received his Master's degree in Mathematics at TU Darmstadt. His research focused on designing efficient and precise algorithms for static analysis (e.g., points-to and typestate). He went on to be a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn, Germany.
+
+- name: Mark Mroz
+  prog: undergrad
+  id: mmroz
+  website: https://www.linkedin.com/in/mark-mroz
+  status: former
+  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
+
+- name: Alexander MacKenzie
+  prog: undergrad
+  id: almacken
+  status: former
+  bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
+
+- name: Bryan Tam
+  prog: undergrad
+  id: btam
+  status: former
+  bio: Bryan is a senior undergrad student in Computer Science at the University of Toronto with an interest in computer systems. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in the winter of 2018, and as a research assistant in the summer of 2018, to contribute to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
+
+- name: Leo Li
+  prog: undergrad
+  id: ao
+  website: http://leeeo.me/
+  status: former
+  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to do his Master's degree at the University of Toronto.
+
+- name: Anthony Hill
+  prog: undergrad
+  id: ahill
+  status: former
+  bio: Anthony obtained his bachelor's degree in Computer Science from Wilfrid Laurier University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
+
+- name: Swapnil Shah
+  prog: undergrad
+  id: swapnil
+  website: https://www.linkedin.com/in/swapnilshahlinked/
+  status: former
+  bio: Swapnil obtained an honors bachelor's degree in Computer Science from the University of Toronto. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as a software engineer at <a href="https://www.okera.com" alt="Okera" target="_blank">Okera</a>.
+
+- name: Tyler Pavlovic
+  prog: undergrad
+  id: tyler
+  website: https://www.linkedin.com/in/tyler-pavlovic/
+  status: former
+  bio: Tyler obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as an Application Developer at the Atlantic Canada Opportunities Agency, a government agency that provides funding through grants and loans to small and medium enterprises in Atlantic Canada.
+
+- name: Alex Li
+  prog: undergrad
+  id: alex
+  status: former
+  bio: Alex obtained his bachelor's degree in Computer Science from Western University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>.
+
+- name: Yaser Alkayale
+  prog: undergrad
+  id: yaser
+  website: https://www.yaser.ca
+  status: former
+  bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
+
+- name: Lydia Wu
+  prog: undergrad
+  id: lydia
+  status: former
+  bio: Qi (Lydia) Wu obtained her bachelor's degree at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. Lydia went on to pursue her Master's degree in visual computing and computer graphics at UC Berkeley.
+
+- name: Chen Song
+  prog: undergrad
+  id: chen
+  website: http://www.songc.me
+  status: former
+  bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
+
+- name: Stuart Hoye
+  prog: undergrad
+  id: hoye
+  website: https://stuarthoye.github.io
+  status: former
+  bio: Stuart obtained his bachelor's degree in Computing Science from the University of Alberta in 2017. He worked in the lab in the summer of 2017 to build <a href="https://github.com/cmput229/TA_classroom_manager" alt="Classroom Management" target="_blank">a suite of classroom management tools</a> that are based on GitHub Classroom. He went on to work as an application consultant for Ontracks Consulting.
+
+- name: Adrian Margel
+  prog: high school
+  id: margel
+  status: former
+  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>, a platform for automated benchmark management. He went on to attend NAIT in Fall 2018.
+
+- name: Noah Weninger
+  prog: undergrad
+  id: nweninge
+  website: https://byte.observer
+  status: former
+  bio: Noah obtained his bachelor's degree in Computing Science from the University of Alberta in 2019. He has worked in the lab in the winter of 2017 to help kickstart <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to pursue his Master's degree in computer theory at UBC.
+
+- name: Michael Appel
+  prog: masters
+  id: mappel
+  status: former
+  bio: Michael obtained his Master’s degree in Computer Science at TU Darmstadt, where his thesis was about modelling the side effects of the Android SDK.
+
+- name: Manuel Benz
+  prog: masters
+  id: mbenz
+  website: https://www.linkedin.com/in/manuel-benz-39b5b698/
+  status: former
+  thesis: http://www.st.informatik.tu-darmstadt.de/artifacts/theses/thesis-2016-benz-interprocedural-groums.pdf
+  bio: Manuel obtained his Master’s degree in Computer Science and IT-Security at TU Darmstadt, where his thesis was about finding misuses of crypto APIs. His main research interests are static and dynamic program analysis and, especially, how we can combine them to mitigate the drawbacks of each other. He went on to be a PhD researcher at Paderborn University, Germany.

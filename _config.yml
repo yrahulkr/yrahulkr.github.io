@@ -1,0 +1,35 @@
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://karimali.ca # the base hostname & protocol for your site
+
+# User settings
+title: Karim Ali
+email: karim.ali@ualberta.ca
+group: The Maple Lab
+groupweb: https://github.com/themaplelab
+dept: Computing Science
+deptweb: https://cs.ualberta.ca
+institution: University of Alberta
+institutionweb: https://ualberta.ca
+address: ATH 3-42
+twitter: karimhamdanali
+github: karimhamdanali
+dblp: Ali_0001:Karim
+gscholar: TC8495oAAAAJ
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 3
+paginate_path: /news/page:num/
+excerpt_separator: <!--more-->
+
+# Site-wide variables
+keywords: program analysis, compiler, static analysis, java, scala, call graphs, averroes
+copyright: Copyright (c) Karim Ali
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+#  - jemoji
