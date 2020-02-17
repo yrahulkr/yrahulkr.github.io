@@ -1,21 +1,21 @@
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://karimali.ca # the base hostname & protocol for your site
+baseurl: "/~rahulyk" # the subpath of your site, e.g. /blog/
+url: https://ece.ubc.ca # the base hostname & protocol for your site
 
 # User settings
-title: Karim Ali
-email: karim.ali@ualberta.ca
-group: The Maple Lab
-groupweb: https://github.com/themaplelab
-dept: Computing Science
-deptweb: https://cs.ualberta.ca
-institution: University of Alberta
-institutionweb: https://ualberta.ca
+title: Rahul Krishna Yandrapally
+email: rahulyk@ece.ubc.ca
+group: SALT lab, UBC
+groupweb: https://github.com/saltlab/
+dept: Electrical and Computer Engineering
+deptweb: https://www.ece.ubc.ca/
+institution: University of British Columbia
+institutionweb: https://www.ubc.ca/
 address: ATH 3-42
-twitter: karimhamdanali
-github: karimhamdanali
-dblp: Ali_0001:Karim
-gscholar: TC8495oAAAAJ
+#twitter: karimhamdanali
+github: yrahulkr
+#dblp: Ali_0001:Karim
+gscholar: oNN7Xy0AAAAJ
 
 # Build settings
 markdown: kramdown
@@ -25,8 +25,8 @@ paginate_path: /news/page:num/
 excerpt_separator: <!--more-->
 
 # Site-wide variables
-keywords: program analysis, compiler, static analysis, java, scala, call graphs, averroes
-copyright: Copyright (c) Karim Ali
+keywords: Software Engineering, Software Testing, Web Testing, Mobile Testing
+#copyright: Copyright (c) Karim Ali
 
 # Plugins
 plugins:
