@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/~rahulyk" # the subpath of your site, e.g. /blog/
-url: https://ece.ubc.ca # the base hostname & protocol for your site
+#baseurl: "/~rahulyk" # the subpath of your site, e.g. /blog/
+#url: https://ece.ubc.ca # the base hostname & protocol for your site
 
 # User settings
 title: Rahul Krishna Yandrapally
