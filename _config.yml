@@ -1,12 +1,12 @@
 # Site settings
-baseurl: "/~rahulyk" # the subpath of your site, e.g. /blog/
-url: https://ece.ubc.ca # the base hostname & protocol for your site
+#baseurl: "/~rahulyk" # the subpath of your site, e.g. /blog/
+#url: https://ece.ubc.ca # the base hostname & protocol for your site
 
 # User settings
 title: Rahul Krishna Yandrapally
 email: rahulyk@ece.ubc.ca
 group: SALT lab, UBC
-groupweb: https://github.com/saltlab/
+groupweb: http://salt.ece.ubc.ca/
 dept: Electrical and Computer Engineering
 deptweb: https://www.ece.ubc.ca/
 institution: University of British Columbia
