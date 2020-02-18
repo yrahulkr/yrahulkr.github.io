@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Research
+title: About
 weight: 1
-group: research
+group: about
 ---
+I am currently pursuing my PhD under the supervision of Dr. Ali Mesbah at University of British Columbia.
 
-Automated Web Testing is an area limited by the ability of current exploration techniques in generating accurate web app models. My research aims to improve model based test generation for web applications. My research interests include Software Engineering, Software Testing, Web Testing and Mobile Testing. 
+ My research aims to improve model based test generation for web applications. My research interests include Software Engineering, Software Testing, Web Testing and Mobile Testing. 
