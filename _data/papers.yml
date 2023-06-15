@@ -1,3 +1,9 @@
+- id: thesis
+  title: "UI driven dynamic analysis and testing of web applications"
+  authors: Rahul krishna Yandrapally
+  year: 2023
+  venue: University of British Columbia (UBC)
+
 - id: apicarv
   title: "Carving UI Tests to generate API Tests and API Specifications"
   authors: Rahul Krishna Yandrapally, Saurabh Sinha, Rachel Tzoref-Brill, Ali Mesbah
