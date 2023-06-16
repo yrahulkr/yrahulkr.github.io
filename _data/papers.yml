@@ -50,6 +50,7 @@
                Saurabh Sinha
   venue: International Conference on Software Engineering (ICSE)
   year: 2015
+  doi: https://doi.org/10.1109/ICSE.2015.27
   #code: https://github.com/saltlab/vista
 
 
@@ -62,4 +63,5 @@
                Satish Chandra
   venue: International Symposium on Software Testing and Analysis (ISSTA)
   year: 2014
+  doi: https://dl.acm.org/doi/abs/10.1145/2610384.2610390
   #code: https://github.com/saltlab/vista

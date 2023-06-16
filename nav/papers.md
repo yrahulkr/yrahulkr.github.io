@@ -29,6 +29,11 @@ group: pubs
         <span class="icon"><svg><use xlink:href="#icon-github"/></svg></span>
       </a>
       {% endif %}
+      {% if paper.doi %}
+      <a href="{{ paper.doi }}" target="_blank">
+        <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
+      </a>
+      {% endif %}
       {% if paper.video %}
       <a href="{{ paper.video }}" target="_blank">
         <span class="icon"><svg><use xlink:href="#icon-youtube"/></svg></span>
